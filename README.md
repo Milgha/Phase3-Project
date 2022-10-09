@@ -43,11 +43,7 @@ for the future consideration and recommendations, we can incorporate more variab
 
 
 ```bash
-+---Code
-|   |   Master_Notebook.ipynb
-|
 +---Images
-|
 |   .gitignore
 |   Master_Notebook.pdf
 |   Github_repo.pdf
