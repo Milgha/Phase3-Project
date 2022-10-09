@@ -21,7 +21,7 @@ Our first task was eliminating any unnecessary data that would overly encumber a
 
 So in the exploration part, we dived deep into our data to clear the mud and see what is actually happening. In this slide we can see the frequency of accidents with injury in terms of heatmap. We can see that the more we get closer to downtown Chicago the frequency got bigger which makes sense.
 
-![](Images/Heatmap.PNG)
+![](Images/Heatmap.png)
 
 Then we looked at some of our variables to explore their relationships to injuries. On the left side you can see the frequency of accidents during a day. And we can see that, as we moved towards the evening and rush hour, the number of injuries in accidents gets bigger.   On the right side, we can see the accidents with deployment of airbags and injuries associated with them. Although, the absence of airbag, or not deployment of it can cause more injuries, accidents with airbag deployment have more injury to none_injury ratio, which shows the severity of accidents.
 
